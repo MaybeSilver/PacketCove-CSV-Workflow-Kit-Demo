@@ -1,0 +1,24 @@
+{
+  "tool": "PacketCove CSV Workflow Kit",
+  "version": "1.0.0",
+  "dry_run": false,
+  "status": "ok",
+  "counts": {
+    "input_rows": 6,
+    "empty_removed": 1,
+    "filtered_out": 1,
+    "duplicates_removed": 1,
+    "invalid_rows": 0,
+    "output_rows": 3,
+    "formula_cells_protected": 1
+  },
+  "invalid_row_numbers": [],
+  "invalid_row_numbers_truncated": false,
+  "columns": [
+    "id",
+    "name",
+    "city",
+    "status"
+  ],
+  "formula_protection": true
+}

@@ -1,0 +1,7 @@
+customer_id,customer_name,city,status
+101,"  Demo, North  ",Perth,active
+102,"Demo South",Sydney,active
+101,"  Demo, North  ",Perth,active
+103,Demo West,Adelaide,inactive
+,,,
+104,"=2+3",Melbourne,active
